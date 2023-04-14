@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: sans-serif;
     margin: 0;
     padding: 0;
     min-height: 100vh;
@@ -34,16 +34,25 @@ body {
 
 h1 {
     font-size: 2rem;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     text-align: center;
-    color: #333;
+    color: #444;
+}
+
+h2.subtitle {
+    margin-top: 0px;
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 1.2rem;
+    color: #999;
+    font-weight: normal;
 }
 
 h2 {
     font-size: 1.3rem;
     margin-bottom: 10px;
     text-align: left;
-    color: #333;
+    color: #444;
 }
 
 p {
@@ -51,7 +60,7 @@ p {
     line-height: 1.5;
     margin-bottom: 10px;
     text-align: justify;
-    color: #444;
+    color: #666;
 }
 
 a.subscribe {
@@ -63,8 +72,8 @@ a.subscribe {
     text-decoration: none;
     cursor: pointer;
     border-radius: 0;
-    margin-bottom: 10px;
-    margin-top: 20px;
+    margin-bottom: 5px;
+    margin-top: 15px;
     background-color: #baa049;
 }
 
