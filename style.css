@@ -54,18 +54,18 @@ p {
     color: #444;
 }
 
-p.core-message {
-    font-size: 1.2rem;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    text-align: center;
-    border: 1px solid #ccc;
-    padding: 10px;
-    background-color: #eee;
-    font-weight: lighter;
-    border-radius: 10px;
+a.subscribe {
+    display: inline-block;
+    padding: 9px 15px;
+    color: white;
+    border: 0;
+    line-height: inherit;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 0;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    background-color: #baa049;
 }
 
 a {
