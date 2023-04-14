@@ -68,6 +68,11 @@ a.subscribe {
     background-color: #baa049;
 }
 
+a.subscribe:hover {
+    text-decoration: none;
+    color: #eee;
+}
+
 a {
     color: #baa049;
     text-decoration: none;
